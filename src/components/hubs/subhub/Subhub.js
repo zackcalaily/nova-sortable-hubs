@@ -34,6 +34,9 @@ const Link = Styled.li`
         color: #085498;
         display: flex;
         text-decoration: none;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;        
     }
 
     a:after {

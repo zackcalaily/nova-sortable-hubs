@@ -79,6 +79,10 @@ class Sidebar extends Component {
         };         
     }
 
+    onSortStart = ({ node, index, collection, isKeySorting }) => {
+        console.log(node);
+    }
+
     onSortEnd = ({oldIndex, newIndex}) => {
         this.setState(({items}) => ({
             items: ArrayMove(items, oldIndex, newIndex)
@@ -87,7 +91,7 @@ class Sidebar extends Component {
 
     render() {
         return (
-            <SortableList onSortEnd={this.onSortEnd}>
+            <SortableList onSortStart={this.onSortStart} onSortEnd={this.onSortEnd}>
                 <SidebarNav>
                     {this.state.items.map((item, index) => <SidebarItem key={item.id} index={index} icon={item.icon} iconActive={item.iconActive} label={item.label} /> )}
                 </SidebarNav>
