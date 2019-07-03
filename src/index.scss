@@ -1,0 +1,95 @@
+@import '~bootstrap/scss/bootstrap';
+
+@font-face {
+    font-family: TedNext;
+    src: url('./assets/fonts/TedNext.eot') format('embedded-opentype'),
+         url('./assets/fonts/TedNext.woff2') format('woff2'),
+         url('./assets/fonts/TedNext.woff') format('woff'),
+         url('./assets/fonts/TedNext.ttf') format('truetype'),
+         url('./assets/fonts/TedNext.svg') format('svg');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: TedNext-Italic;
+    src: url('./assets/fonts/TedNext-Italic.eot') format('embedded-opentype'),
+         url('./assets/fonts/TedNext-Italic.woff2') format('woff2'),
+         url('./assets/fonts/TedNext-Italic.woff') format('woff'),
+         url('./assets/fonts/TedNext-Italic.ttf') format('truetype'),
+         url('./assets/fonts/TedNext-Italic.svg') format('svg');
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: TedNext-Bold;
+    src: url('./assets/fonts/TedNext-Bold.eot') format('embedded-opentype'),
+         url('./assets/fonts/TedNext-Bold.woff2') format('woff2'),
+         url('./assets/fonts/TedNext-Bold.woff') format('woff'),
+         url('./assets/fonts/TedNext-Bold.ttf') format('truetype'),
+         url('./assets/fonts/TedNext-Bold.svg') format('svg');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: TedNext-Light;
+    src: url('./assets/fonts/TedNext-Light.eot') format('embedded-opentype'),
+         url('./assets/fonts/TedNext-Light.woff2') format('woff2'),
+         url('./assets/fonts/TedNext-Light.woff') format('woff'),
+         url('./assets/fonts/TedNext-Light.ttf') format('truetype'),
+         url('./assets/fonts/TedNext-Light.svg') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: TedNext-BoldItalic;
+    src: url('./assets/fonts/TedNext-BoldItalic.eot') format('embedded-opentype'),
+         url('./assets/fonts/TedNext-BoldItalic.woff2') format('woff2'),
+         url('./assets/fonts/TedNext-BoldItalic.woff') format('woff'),
+         url('./assets/fonts/TedNext-BoldItalic.ttf') format('truetype'),
+         url('./assets/fonts/TedNext-BoldItalic.svg') format('svg');
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: TedNext-LightItalic;
+    src: url('./assets/fonts/TedNext-LightItalic.eot') format('embedded-opentype'),
+         url('./assets/fonts/TedNext-LightItalic.woff2') format('woff2'),
+         url('./assets/fonts/TedNext-LightItalic.woff') format('woff'),
+         url('./assets/fonts/TedNext-LightItalic.ttf') format('truetype'),
+         url('./assets/fonts/TedNext-LightItalic.svg') format('svg');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: TedNext-SemiBoldItalic;
+    src: url('./assets/fonts/TedNext-SemiBoldItalic.eot') format('embedded-opentype'),
+         url('./assets/fonts/TedNext-SemiBoldItalic.woff2') format('woff2'),
+         url('./assets/fonts/TedNext-SemiBoldItalic.woff') format('woff'),
+         url('./assets/fonts/TedNext-SemiBoldItalic.ttf') format('truetype'),
+         url('./assets/fonts/TedNext-SemiBoldItalic.svg') format('svg');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: TedNext-SemiBold;
+    src: url('./assets/fonts/TedNext-SemiBold.eot') format('embedded-opentype'),
+         url('./assets/fonts/TedNext-SemiBold.woff2') format('woff2'),
+         url('./assets/fonts/TedNext-SemiBold.woff') format('woff'),
+         url('./assets/fonts/TedNext-SemiBold.svg') format('svg');
+    font-weight: 600;
+    font-style: normal;
+}
+
+body {
+    font-family: TedNext, Helvetica, Arial, sans-serif;
+    font-size: 1rem;
+    font-weight: 600;
+    color: #333;
+}
