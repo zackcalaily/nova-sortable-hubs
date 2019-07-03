@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/nova-sortable-hubs/static/css/main.eabf2512.chunk.css",
-    "main.js": "/nova-sortable-hubs/static/js/main.f1720427.chunk.js",
-    "main.js.map": "/nova-sortable-hubs/static/js/main.f1720427.chunk.js.map",
+    "main.css": "/nova-sortable-hubs/static/css/main.68009a9a.chunk.css",
+    "main.js": "/nova-sortable-hubs/static/js/main.ba67624e.chunk.js",
+    "main.js.map": "/nova-sortable-hubs/static/js/main.ba67624e.chunk.js.map",
     "runtime~main.js": "/nova-sortable-hubs/static/js/runtime~main.8596a27a.js",
     "runtime~main.js.map": "/nova-sortable-hubs/static/js/runtime~main.8596a27a.js.map",
-    "static/js/2.b25ade84.chunk.js": "/nova-sortable-hubs/static/js/2.b25ade84.chunk.js",
-    "static/js/2.b25ade84.chunk.js.map": "/nova-sortable-hubs/static/js/2.b25ade84.chunk.js.map",
+    "static/js/2.8a6f4ecd.chunk.js": "/nova-sortable-hubs/static/js/2.8a6f4ecd.chunk.js",
+    "static/js/2.8a6f4ecd.chunk.js.map": "/nova-sortable-hubs/static/js/2.8a6f4ecd.chunk.js.map",
     "index.html": "/nova-sortable-hubs/index.html",
-    "precache-manifest.fb5dc3d8d9a6c1ccaee47877ad7bb4e1.js": "/nova-sortable-hubs/precache-manifest.fb5dc3d8d9a6c1ccaee47877ad7bb4e1.js",
+    "precache-manifest.618ffdc80231778c2074f427b6b12e7b.js": "/nova-sortable-hubs/precache-manifest.618ffdc80231778c2074f427b6b12e7b.js",
     "service-worker.js": "/nova-sortable-hubs/service-worker.js",
-    "static/css/main.eabf2512.chunk.css.map": "/nova-sortable-hubs/static/css/main.eabf2512.chunk.css.map",
+    "static/css/main.68009a9a.chunk.css.map": "/nova-sortable-hubs/static/css/main.68009a9a.chunk.css.map",
     "static/media/index.scss": "/nova-sortable-hubs/static/media/TedNext.b846c33a.woff2",
     "static/media/mobius.svg": "/nova-sortable-hubs/static/media/mobius.52e520e0.svg"
   }

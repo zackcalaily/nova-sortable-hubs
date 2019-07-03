@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "47a7e9b5a6677d6f21e83cb220ba05a9",
+    "revision": "4428e4508fa11b159ee64dad58a96894",
     "url": "/nova-sortable-hubs/index.html"
   },
   {
-    "revision": "2966221aab6a39843c68",
-    "url": "/nova-sortable-hubs/static/css/main.eabf2512.chunk.css"
+    "revision": "c3a536509440a001e33d",
+    "url": "/nova-sortable-hubs/static/css/main.68009a9a.chunk.css"
   },
   {
-    "revision": "0c9977743ae71097dc41",
-    "url": "/nova-sortable-hubs/static/js/2.b25ade84.chunk.js"
+    "revision": "5a65d51029881a232407",
+    "url": "/nova-sortable-hubs/static/js/2.8a6f4ecd.chunk.js"
   },
   {
-    "revision": "2966221aab6a39843c68",
-    "url": "/nova-sortable-hubs/static/js/main.f1720427.chunk.js"
+    "revision": "c3a536509440a001e33d",
+    "url": "/nova-sortable-hubs/static/js/main.ba67624e.chunk.js"
   },
   {
     "revision": "febdcc5166ef2ce4a0c2",
@@ -24,12 +24,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nova-sortable-hubs/static/media/TedNext-Bold.099ae3f2.woff"
   },
   {
-    "revision": "d1ee1a8c0010a5e6f558222370d52477",
-    "url": "/nova-sortable-hubs/static/media/TedNext-Bold.d1ee1a8c.woff2"
+    "revision": "899f4c163f2368ad9d100c61ead4fbd8",
+    "url": "/nova-sortable-hubs/static/media/TedNext-Bold.899f4c16.svg"
   },
   {
-    "revision": "d7b4796dd8a99fe425411a5c02745a82",
-    "url": "/nova-sortable-hubs/static/media/TedNext-Bold.d7b4796d.svg"
+    "revision": "d1ee1a8c0010a5e6f558222370d52477",
+    "url": "/nova-sortable-hubs/static/media/TedNext-Bold.d1ee1a8c.woff2"
   },
   {
     "revision": "e8a4a016f51fb5d2c101c2853fd0ec89",
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nova-sortable-hubs/static/media/TedNext-BoldItalic.41d75908.woff"
   },
   {
-    "revision": "460037a66384d2f491548ae909f90029",
-    "url": "/nova-sortable-hubs/static/media/TedNext-BoldItalic.460037a6.svg"
+    "revision": "8b855e6c5dcff6c07537d736e8a4503c",
+    "url": "/nova-sortable-hubs/static/media/TedNext-BoldItalic.8b855e6c.svg"
   },
   {
     "revision": "9192ad6cbfcba373df1545d303c14cc3",
@@ -68,16 +68,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nova-sortable-hubs/static/media/TedNext-Italic.4aaaf425.eot"
   },
   {
-    "revision": "6dd7e4efbdadc1731ac926ad7c3e0bdd",
-    "url": "/nova-sortable-hubs/static/media/TedNext-Italic.6dd7e4ef.svg"
-  },
-  {
     "revision": "960416ba6a75dbc77ca761cc6b1e4fe9",
     "url": "/nova-sortable-hubs/static/media/TedNext-Italic.960416ba.ttf"
   },
   {
     "revision": "b423f118c4487aa48b2665de62e51dc8",
     "url": "/nova-sortable-hubs/static/media/TedNext-Italic.b423f118.woff"
+  },
+  {
+    "revision": "ee6635caafe9c1beb7a4ac9b88ebddeb",
+    "url": "/nova-sortable-hubs/static/media/TedNext-Italic.ee6635ca.svg"
   },
   {
     "revision": "01fab3c91a697c3e3db5e743fb0c99c0",
@@ -88,20 +88,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nova-sortable-hubs/static/media/TedNext-Light.0ad2c411.ttf"
   },
   {
-    "revision": "9b55f1870773358916d434e36712cca3",
-    "url": "/nova-sortable-hubs/static/media/TedNext-Light.9b55f187.eot"
+    "revision": "80a80f1548f5c9b683530bcde8dc57ff",
+    "url": "/nova-sortable-hubs/static/media/TedNext-Light.80a80f15.svg"
   },
   {
-    "revision": "ec1ee587bae62ba3239e884124aa92d8",
-    "url": "/nova-sortable-hubs/static/media/TedNext-Light.ec1ee587.svg"
+    "revision": "9b55f1870773358916d434e36712cca3",
+    "url": "/nova-sortable-hubs/static/media/TedNext-Light.9b55f187.eot"
   },
   {
     "revision": "fe560099928cc28d2b2c58d9f2fec976",
     "url": "/nova-sortable-hubs/static/media/TedNext-Light.fe560099.woff"
   },
   {
-    "revision": "726971766f9b06f5c7fb3c519f957431",
-    "url": "/nova-sortable-hubs/static/media/TedNext-LightItalic.72697176.svg"
+    "revision": "65ed236067b31328cc145b71caac7d2b",
+    "url": "/nova-sortable-hubs/static/media/TedNext-LightItalic.65ed2360.svg"
   },
   {
     "revision": "c55f1cf6264b4da9d42f9779ea57093e",
@@ -124,16 +124,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nova-sortable-hubs/static/media/TedNext-SemiBold.3e933131.eot"
   },
   {
+    "revision": "56140bee3582213419f13ef26087bcc1",
+    "url": "/nova-sortable-hubs/static/media/TedNext-SemiBold.56140bee.svg"
+  },
+  {
     "revision": "75ea8bd8723fdeded3ec1357dbdec6e4",
     "url": "/nova-sortable-hubs/static/media/TedNext-SemiBold.75ea8bd8.woff"
   },
   {
     "revision": "9fcd046743946dd7fe49373252a15472",
     "url": "/nova-sortable-hubs/static/media/TedNext-SemiBold.9fcd0467.woff2"
-  },
-  {
-    "revision": "fffdc4a9460f95f1462d290374509a2a",
-    "url": "/nova-sortable-hubs/static/media/TedNext-SemiBold.fffdc4a9.svg"
   },
   {
     "revision": "0e22f078fdc69b76ee96a16d9c690ea7",
@@ -144,12 +144,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nova-sortable-hubs/static/media/TedNext-SemiBoldItalic.3792eda8.eot"
   },
   {
-    "revision": "81ff81f7de62d5f61b171142aed8d9bb",
-    "url": "/nova-sortable-hubs/static/media/TedNext-SemiBoldItalic.81ff81f7.svg"
-  },
-  {
     "revision": "c8fe5b55ac5b1a6aec75baf6c9cc99d9",
     "url": "/nova-sortable-hubs/static/media/TedNext-SemiBoldItalic.c8fe5b55.woff2"
+  },
+  {
+    "revision": "d3351466ed1fae9e2642e4243b4e5f26",
+    "url": "/nova-sortable-hubs/static/media/TedNext-SemiBoldItalic.d3351466.svg"
   },
   {
     "revision": "eafbf3609b0fdf9b8f624a63e3993142",
@@ -160,8 +160,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nova-sortable-hubs/static/media/TedNext.15ba45cd.eot"
   },
   {
-    "revision": "607596341043e551a88015a6d620d7d7",
-    "url": "/nova-sortable-hubs/static/media/TedNext.60759634.svg"
+    "revision": "64781ae0bb83f59891eb70e98ec99266",
+    "url": "/nova-sortable-hubs/static/media/TedNext.64781ae0.svg"
   },
   {
     "revision": "7d480456ceb774b282287f7c4bd106cf",
